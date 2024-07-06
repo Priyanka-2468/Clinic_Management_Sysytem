@@ -72,4 +72,4 @@ To give you a better understanding of the system's interface and functionality, 
 
 ---
 
-This README file provides clear instructions on setting up and using the Clinic/Hospital Management System, highlights its key features and functionalities, and includes a section for screenshots to visually demonstrate the system's interface and operations.
+
