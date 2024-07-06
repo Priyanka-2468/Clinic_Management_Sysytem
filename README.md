@@ -1,6 +1,6 @@
 # Clinic/Hospital Management System
 
-Welcome to the Clinic/Hospital Management System! This project is designed to efficiently store and manage patient data, as well as handle appointment bookings and cancellations. The system is built using Python and Tkinter, with MySQL as the database backend.
+ This project is designed to efficiently store and manage patient data, as well as handle appointment bookings and cancellations. The system is built using Python and Tkinter, with MySQL as the database backend.The Clinic/Hospital Management System is designed to streamline administrative tasks, improve patient record-keeping, and enhance the overall appointment management process. It ensures that essential patient information and appointment details are readily accessible and efficiently managed.
 
 ## How to Run the Project
 
@@ -66,11 +66,9 @@ To give you a better understanding of the system's interface and functionality, 
 ![pic5](https://github.com/Priyanka-2468/Clinic_Management_Sysytem/assets/103355189/c7330d1b-7d35-4c98-9761-7afa90ee6072)
 
 
-## Overview
 
-The Clinic/Hospital Management System is designed to streamline administrative tasks, improve patient record-keeping, and enhance the overall appointment management process. It ensures that essential patient information and appointment details are readily accessible and efficiently managed.
 
-If you have any questions or need assistance, feel free to ask!
+
 
 ---
 
